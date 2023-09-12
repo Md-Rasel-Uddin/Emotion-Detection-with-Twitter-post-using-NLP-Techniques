@@ -1,5 +1,6 @@
 # emotion-detection-with-twitter-post
-In this project, i have developed a system which can detect emotion from text. Besides it can retrive tweet post from twiiter.
+In this project, I have developed a system that can detect emotion from the text. Besides it can retrieve tweet posts from Twitter.
+Several resources from online were used to learn from them and finally implemented by ourselves with lots of modifications and improvements.
 
 Preview of software
 
